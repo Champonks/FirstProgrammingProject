@@ -1,2 +1,1 @@
-# FirstProgrammingProject
-Interactive tourism map: my first programming project
+# Interactive Tourism Map
